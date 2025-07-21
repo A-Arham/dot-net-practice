@@ -1,2 +1,2 @@
-# dot-net-practice
-For practicing .NET dev
+# pracice-dot-net
+ 
